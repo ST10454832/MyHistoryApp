@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.St10454832_imad5112_practicum_weatherapp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.St10454832_imad5112_practicum_weatherapp" parent="Base.Theme.St10454832_imad5112_practicum_weatherapp" />
+</resources>
